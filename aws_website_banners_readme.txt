@@ -1,0 +1,1 @@
+Updated AWS website: original uploaded in-store banners embedded in HTML. Company name and tagline updated. Open the HTML file in a browser. Promotional prices shown in photos are not verified current prices. Featured phones remain enquiry-only until actual inventory is provided.
